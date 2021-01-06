@@ -46,9 +46,9 @@ git push --force
 
 ### Dumb Project Ideas I am making or have completed
 
-- [X] \(Take a picture of an event date and my program converts it to a calendar event and adds it to Google Calendar) Calendar OCR w/ @yinglin33
-- [X] \(Virtual Tour made for my High School) THS Virtual Tour w/ @tunacore
-- [ ] \(turns off spotify when an ad plays and reopens it, effectively skipping the ad) Spotify Almost Premium
+- [X]  Calendar OCR w/ @yinglin33 (Take a picture of an event date and my program converts it to a calendar event and adds it to Google Calendar)
+- [X] THS Virtual Tour w/ @tunacore (Virtual Tour made for my High School) 
+- [ ] Spotify Almost Premium (turns off spotify when an ad plays and reopens it, effectively skipping the ad)
 
 ### Hobbies:
 - Coding Personal Projects :sunglasses:	
