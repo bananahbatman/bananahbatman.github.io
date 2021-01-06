@@ -7,12 +7,12 @@
 #### Python
 Currently, my favorite programming language is Python. This is largely due to it's simplicity, which ideal for getting dumb project ideas out of my head and in code form quickly. 
 
-**To further convey my love for Python here are some quotes from famous Computer Scientists: **
+**To further convey my love for Python here are some quotes from famous Computer Scientists:**
 
-** In the words of Paul Dubois **
+**In the words of Paul Dubois**
 > Python is the most powerful language you can still read.
 
-** In the words of Me **
+**In the words of Me**
 > Python is the slang of Coding Languages
 
 #### C++
