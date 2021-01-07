@@ -15,10 +15,13 @@ Currently, my favorite programming language is Python. This is largely due to it
 **In the words of Me**
 > Python is the slang of Coding Languages
 
-#### C++
+#### C++:
 On the other hand, I have great appreciation for C++ and how much control it gives you. This has led me to the belief that C++ is quite guillible. While, I am flattered that C++ assumes I know what I'm doing, I have ruthlessly pranked it many times with segmentation faults.
 
 ### Poorly made CS Memes
+
+<img src='ezgif.com-gif-maker.gif' title='Friendship Ended with C++, now Python is my Best Friend' width='' alt='My Toxic RelationShip with C++' > 
+
 
 **Git:**
 
