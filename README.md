@@ -34,11 +34,11 @@ Push Rejected, Rebase or Merge
 ```
 git push --force
 ```
-<img src='https://i.pinimg.com/originals/8a/6a/9d/8a6a9d94f4770522eb88cadb845749d5.gif' title='Funny Gif' width='' alt='Gif' > 
+<img src='https://i.pinimg.com/originals/8a/6a/9d/8a6a9d94f4770522eb88cadb845749d5.gif' title='Is this a Kabedon' width='' alt=':;-;' > 
 
 **Me commenting my code after I've finished the project and no longer understand it**
 
-<img src='https://media.tenor.com/images/19a53c90ca1417f4f74f006fc1e378c4/tenor.png' title='Funny png' width='' alt='png' >
+<img src='https://media.tenor.com/images/19a53c90ca1417f4f74f006fc1e378c4/tenor.png' title='The Hands of a Coding Ubermensch' width='' alt='Ubermensch coding hands' >
 
 ### Follow me on
 
