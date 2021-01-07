@@ -4,7 +4,7 @@
 
 ### My uninformed thoughts on programming languages
 
-#### Python
+#### Python:
 Currently, my favorite programming language is Python. This is largely due to it's simplicity, which ideal for getting dumb project ideas out of my head and in code form quickly. 
 
 **To further convey my love for Python here are some quotes from famous Computer Scientists:**
@@ -45,10 +45,11 @@ git push --force
 
 
 ### Dumb Project Ideas I am making or have completed
-
-- [X]  Calendar OCR w/ @yinglin33 (Take a picture of an event date and my program converts it to a calendar event and adds it to Google Calendar)
-- [X] THS Virtual Tour w/ @tunacore (Virtual Tour made for my High School) 
-- [ ] Spotify Almost Premium (turns off spotify when an ad plays and reopens it, effectively skipping the ad)
+| Made  | Name | Description | Collaborators |
+| --- | --- | --- | --- |
+| <ul><li> - [X] </li></ul> | Calendar OCR | Takes a picture of an event date and my program converts it to a calendar event and adds it to Google Calendar | @yinglin33 |
+| <ul><li> - [X] </li></ul> | THS Virtual Tour | Virtual Tour made for my High School | @tunacore |
+| <ul><li> - [ ] </li></ul> | Spotify Almost Premium | Turns off spotify when an ad plays and reopens it, effectively skipping the ad | None |
 
 ### Hobbies:
 - Coding Personal Projects :sunglasses:	
